@@ -1,0 +1,14 @@
+G:\src\HealthMonitor\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.exe
+G:\src\HealthMonitor\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.deps.json
+G:\src\HealthMonitor\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+G:\src\HealthMonitor\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+G:\src\HealthMonitor\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.dll
+G:\src\HealthMonitor\ConsoleApp1\bin\Release\netcoreapp3.1\ConsoleApp1.pdb
+G:\src\HealthMonitor\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+G:\src\HealthMonitor\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+G:\src\HealthMonitor\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+G:\src\HealthMonitor\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\src\HealthMonitor\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.dll
+G:\src\HealthMonitor\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.pdb
+G:\src\HealthMonitor\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+G:\src\HealthMonitor\ConsoleApp1\obj\Release\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
