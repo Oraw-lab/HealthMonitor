@@ -15,7 +15,7 @@ namespace ConsoleApp1
                 listOfThreads.Add(new Thread(() => monitorObject.startMonitorProcess(threadObject.getBool())));
             }
             threadObject.setThreadList(listOfThreads);
-
+            threadObject.StartAllThreads();
         }
     }
 }

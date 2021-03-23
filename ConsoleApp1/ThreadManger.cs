@@ -21,6 +21,7 @@ namespace ConsoleApp1
         public void setThreadList(List<Thread> _allThreads)
         {
             allThreads = _allThreads;
+            StartAllThreads();
         }
 
         // Gurading the bool of program running
@@ -45,24 +46,19 @@ namespace ConsoleApp1
             
         }
 
-        // Private methods
-        
+
         // starting all thread in list
-        private void StartAllThreads()
+        public void StartAllThreads()
         {
-            foreach(var thread in allThreads)
+            foreach (var thread in allThreads)
             {
                 thread.Start();
             }
-        }
-
-        // joining all threads in list 
-        ~ThreadManger()
-        {
-            foreach(var thread in allThreads)
+            foreach (var thread in allThreads)
             {
                 thread.Join();
             }
+
         }
 
     }
